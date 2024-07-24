@@ -1,5 +1,5 @@
 // This would be stored in the 'src' folder of the GitHub repository
-// sam-game.js
+// whack-a-mole.js
 window.initGame = (React, assetsUrl) => {
   const { useState, useEffect } = React;
 
